@@ -1,2 +1,4 @@
 # fundamentosBD
-RESPOSITORIO-PROGETOFDB-IFMT
+RESPOSITORIO-PROGETOFDB-IFM
+*Integrantes*
+vcassia193@gmail.com
